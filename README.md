@@ -31,7 +31,7 @@ The project uses the "Telco_customer_churn.xlsx" dataset with 7,043 customer rec
 Churn_Project/
 │
 ├── Telco_customer_churn.xlsx   # Raw dataset
-├── churn_analysis_notebook.ipynb  # Main Jupyter notebook
+├── Churn_Project.ipynb  # Main Jupyter notebook
 └── README.md
 ```
 
