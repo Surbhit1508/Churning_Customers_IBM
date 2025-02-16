@@ -55,8 +55,8 @@ Churn_Project/
    - Evaluated model performance
 
 ## Results
-- Real Data Model Accuracy: 92.83%
-- Synthetic Data Model Accuracy: 74.30%
+- Achieved Synthetic Data Model Accuracy: 92.83%
+- By using the training dataset build the synthetic data.
 
 ### Key Feature Importances
 1. Churn Score
