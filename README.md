@@ -1,6 +1,3 @@
-# Churning_Customers_IBM
-I'll help you create a comprehensive README document for this customer churn prediction project. I'll break it down into key sections to provide a clear overview.
-
 # Customer Churn Prediction Project
 
 ## Project Overview
@@ -107,7 +104,7 @@ Surbhit Jangra
 - Date: February 2025
 
 ## License
-[Specify your license here, e.g., MIT License]
+MIT License
 
 ## Future Work
 - Experiment with more advanced models
@@ -115,5 +112,3 @@ Surbhit Jangra
 - Develop a real-time churn prediction system
 
 ---
-
-Would you like me to refine any part of this README or add any specific details from the project?
